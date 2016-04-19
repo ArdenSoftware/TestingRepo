@@ -19,3 +19,5 @@ This is a cool readme for several reasons
 * But here are some changes that I made in a pull request.
 
 * Here are the requested changes. 
+
+* Here are those changes.
