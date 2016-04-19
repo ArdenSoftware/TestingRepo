@@ -1,1 +1,5 @@
 .vscode
+*.local
+*.res
+*.obj
+Win32
