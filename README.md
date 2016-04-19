@@ -1,3 +1,3 @@
 # TestingRepo
-Testing repo for youtrack
+Testing repo for upsource
 
