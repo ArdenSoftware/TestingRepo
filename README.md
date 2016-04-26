@@ -26,4 +26,8 @@ This is a cool readme for several reasons
 
 * More change.
 
+<<<<<<< HEAD
 Change
+=======
+Hi this is a change
+>>>>>>> origin/master
