@@ -1,0 +1,8 @@
+D:\code\TestingRepo\VSApp\VisualStudioApp\VisualStudioApp\bin\Debug\VisualStudioApp.exe.config
+D:\code\TestingRepo\VSApp\VisualStudioApp\VisualStudioApp\bin\Debug\VisualStudioApp.exe
+D:\code\TestingRepo\VSApp\VisualStudioApp\VisualStudioApp\bin\Debug\VisualStudioApp.pdb
+D:\code\TestingRepo\VSApp\VisualStudioApp\VisualStudioApp\obj\Debug\VisualStudioApp.csprojResolveAssemblyReference.cache
+D:\code\TestingRepo\VSApp\VisualStudioApp\VisualStudioApp\obj\Debug\VisualStudioApp.Properties.Resources.resources
+D:\code\TestingRepo\VSApp\VisualStudioApp\VisualStudioApp\obj\Debug\VisualStudioApp.csproj.GenerateResource.Cache
+D:\code\TestingRepo\VSApp\VisualStudioApp\VisualStudioApp\obj\Debug\VisualStudioApp.exe
+D:\code\TestingRepo\VSApp\VisualStudioApp\VisualStudioApp\obj\Debug\VisualStudioApp.pdb
