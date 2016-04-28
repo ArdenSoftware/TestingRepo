@@ -1,6 +1,10 @@
-.vscode
+.vscode/
 *.local
+*.cache
 *.res
 *.obj
-__history
-Win32
+*.suo
+obj/
+bin/
+__history/
+Win32/
