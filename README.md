@@ -26,7 +26,7 @@ This is a cool readme for several reasons
 
 * More change.
 
-<<<<<<< HEAD
+And some more.
 Change
 =======
 Hi this is a change
