@@ -18,3 +18,5 @@ std::string GetDogMessage(const std::string& msg)
     }
     return newMsg;
 }
+
+void lol() { return; }
