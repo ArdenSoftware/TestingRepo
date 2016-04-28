@@ -4,6 +4,7 @@
 *.res
 *.obj
 *.suo
+*.orig
 obj/
 bin/
 __history/
