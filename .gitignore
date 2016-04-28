@@ -2,5 +2,6 @@
 *.local
 *.res
 *.obj
+*.orig
 __history
 Win32
