@@ -1,0 +1,20 @@
+This is an important documents about dogs being cool.
+
+void function()
+{
+    std::cout << GetDogMessage("Dogs are cool m8.") << std::endl;
+}
+
+
+/**
+Translates a message in to a dog message.
+*/
+std::string GetDogMessage(const std::string& msg)
+{
+    std::string newMsg;
+    for (auto& i : msg)
+    {
+        newMsg.push_back("Woof! ");
+    }
+    return newMsg;
+}
