@@ -1,1 +1,6 @@
 This is an important documents about dogs being cool.
+
+void function()
+{
+    std::cout << "Dogs are cool m8." << std::endl;
+}
